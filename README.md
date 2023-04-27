@@ -36,3 +36,4 @@ Conclusão:
 Este é um teste simples e rápido que pode ser executado para verificar se a API dos Correios está funcionando corretamente na busca de CEPs das capitais brasileiras.
 
 PS: [Collection-Consulta-Cep.zip](https://github.com/MarcosMotaDeal/Cypress_Correios/files/11343322/Collection-Consulta-Cep.zip)
+
